@@ -1,0 +1,19 @@
+.navbar {
+    justify-content: flex-start;
+    gap: 80px;
+}
+
+.presentation {
+    flex-direction: row;
+    width: 1164px;
+    padding: 0;
+}
+
+.presentation__content {
+    width: 594px;
+}
+
+.presentation__photo {
+    display: inline;
+    width: auto;
+}

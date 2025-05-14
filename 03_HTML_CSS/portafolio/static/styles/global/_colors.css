@@ -1,0 +1,14 @@
+:root {
+    /* Dark mode */
+    --dark-mode: #050505;
+    
+    --dm--primary-color: #22D4FD;
+    --dm--secondary-color: #f6f6f6;
+    --dm--hover-button: #272727;
+
+    /* Light mode */
+    --light-mode: #f6f6f6;
+    --lm-primary-color: #2259fd;
+    --lm-secondary-color: #050505;
+    --lm-hover-button: #9f9f9f;
+}
